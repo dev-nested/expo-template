@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "virtual-id",
-    "slug": "virtual-id",
+    "name": "expo-template",
+    "slug": "expo-template",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/images/icon.png",
